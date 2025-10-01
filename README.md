@@ -7,7 +7,7 @@ A Python project performing multi-class classification on 3-class synthetic data
 
 #Features
 
-Synthetic data with 12 input features
+Synthetic data with 12 input features/n
 3 classes (multi-class)
 Model: Dense layers + Dropout
 Optimization: Adam
