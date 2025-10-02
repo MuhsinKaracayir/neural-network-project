@@ -3,7 +3,7 @@
 
 
 # Neural-network-project
-A Python project performing multi-class classification on 3-class synthetic data using TensorFlow and Keras. Includes training graphs, confusion matrix, and model checkpoints.  
+A Python project performing multi-class classification on 3-class synthetic data using TensorFlow and Keras. Includes training graphs, confusion matrix, and model checkpoints.    
 #Features  
 Synthetic data with 12 input features  
 3 classes (multi-class)  
